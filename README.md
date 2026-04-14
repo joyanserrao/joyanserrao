@@ -5,7 +5,7 @@
 ## 🙋‍♂️ About Me
 
   * **Senior Software Engineer** with over **4 years of experience** building scalable, high-availability backend systems.
-  * Currently at **GeekyAnts**, leading technical initiatives for clients like **WeWork India** and **Vendhub USA**.
+  * Currently at **GeekyAnts**, Spearheading complex technical projects and digital transformation for international market leaders across the India and US regions.
   * Product-centric developer with a focus on end-to-end ownership, architecture, and mentoring.
   * Based in **Bengaluru, India**.
   * ⚡ Fun fact: **I love History and Football.**
@@ -56,4 +56,3 @@ My work revolves around architecting robust infrastructure and automating comple
 
   * **Email**: joyanserrao@gmail.com
   * **LinkedIn**: [joyanserrao](https://www.linkedin.com/in/joyanserrao/)
-  * **GitHub**: [joyanserrao](https://www.google.com/search?q=https://github.com/joyanserrao)
