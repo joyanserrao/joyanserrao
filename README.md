@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi \<img src="[https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)" width="30px"\>, I'm Joyan Serrao
 
-<!--
-**joyanserrao/joyanserrao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙋‍♂️ About Me
 
-Here are some ideas to get you started:
+  * **Senior Software Engineer** with over **4 years of experience** building scalable, high-availability backend systems.
+  * Currently at **GeekyAnts**, leading technical initiatives for clients like **WeWork India** and **Vendhub USA**.
+  * Product-centric developer with a focus on end-to-end ownership, architecture, and mentoring.
+  * Based in **Bengaluru, India**.
+  * ⚡ Fun fact: **I love History and Football.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-----
+
+## 💼 Professional Highlights
+
+My work revolves around architecting robust infrastructure and automating complex business logic to drive revenue and efficiency:
+
+  * **B2B & EDI Integration**: Architected foundational and custom X12 EDI parsers (832, 850, 855, 810) to automate catalog imports and order processing, establishing seamless B2B integrations with major wholesale partners.
+  * **E-commerce Scalability**: Built and extended customer-facing platforms powering 2,000+ customers and managing over $100k+ in revenue.
+  * **System Optimization**: Refactored core invoicing services and integrated historical cross-referencing tools, reducing support tickets by 30% and significantly cutting turnaround times.
+  * **Microservices Architecture**: Manage a hybrid backend environment with 8+ microservices utilizing Node.js, GraphQL, Firebase, and Google Cloud Platform.
+  * **Workflow Automation**: Automated off-platform order matching and invoicing, replacing manual processes for 100+ high-value orders per month.
+  * **Technical Leadership**: Author comprehensive HLD/LLD documentation and mentor junior engineers on backend architecture and Nest.JS best practices.
+
+-----
+
+## 🚀 Technical Strengths
+
+### **Languages & Frameworks**
+
+  * **Languages**: JavaScript, TypeScript, Python.
+  * **Backend**: Node.JS, Nest.JS, Express.JS, GraphQL, FastAPI.
+  * **Frontend**: ReactJS, Next.JS, Tailwind CSS, Chakra UI.
+
+### **Databases & Infrastructure**
+
+  * **Databases**: PostgreSQL, MongoDB, Firebase, Redis, Supabase, Elasticsearch, Algolia.
+  * **Cloud**: GCP (Cloud Functions, App Engine, Pub/Sub), AWS (S3, SQS, Lambda).
+  * **DevOps**: Docker, Kafka, Git, New Relic, Sentry, Swagger.
+
+### **AI & Productivity**
+
+  * Leveraging **Claude Code** and **Cursor** to accelerate development workflows and build AI-powered solutions.
+
+-----
+
+## 🎓 Education
+
+  * **Bachelor of Engineering** in Computer Science and Engineering | St. Francis Institute of Technology, Mumbai.
+  * **Diploma in Engineering** in Computer Engineering | Viva College of Diploma Engineering & Technology, Mumbai.
+
+-----
+
+### 📫 How to reach me
+
+  * **Email**: joyanserrao@gmail.com
+  * **LinkedIn**: [joyanserrao](https://www.linkedin.com/in/joyanserrao/)
+  * **GitHub**: [joyanserrao](https://www.google.com/search?q=https://github.com/joyanserrao)
