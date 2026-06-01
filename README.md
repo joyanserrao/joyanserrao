@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-  * **Senior Software Engineer** with over **4 years of experience** building scalable, high-availability backend systems.
+  * **Senior Software Engineer** with over **5 years of experience** building scalable, high-availability backend systems.
   * Currently at **GeekyAnts**, Spearheading complex technical projects and digital transformation for international market leaders across the India and US regions.
   * Product-centric developer with a focus on end-to-end ownership, architecture, and mentoring.
   * Based in **Bengaluru, India**.
